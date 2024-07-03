@@ -16,6 +16,7 @@ Engenheiro de Dados apaixonado por tecnologia. Atualmente adquirindo alto conhec
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg" /> 
 </div> 
+
 ##
 ### Você também me encontra em:
 <a href="https://www.linkedin.com/in/leomarinoo/"> 
