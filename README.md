@@ -1,13 +1,11 @@
-### Olá, meu nome é Leonardo! 👋
-Engenheiro de Dados apaixonado por tecnologia. Atualmente adquirindo alto conhecimento, tenho experiência com análise e banco de dados, excel, SQL, Python e BI. 
+### Olá, me chamo Leonardo Marino!! 👋
+Engenheiro de Dados apaixonado por tecnologia. Atualmente adquirindo alto conhecimento na área, tenho experiência com análise e banco de dados, excel, SQL, Python e BI. 
 
-▪️👨🏻‍🎓Graduado em Engenharia de Produção.
-
-▪️👨🏻‍🎓MBA Pós Graduado em Investments & Asset Allocation.
-
-▪️📚**Ferramentas**: Excel, Power BI, Spark, Airflow, Hadoop, Docker, AWS e Azure.
-
-▪️📚**Linguagem de programação**: Python e SQL.
+## 
+- 👨🏻‍🎓Graduado em Engenharia de Produção.
+- 👨🏻‍🎓MBA Pós Graduado em Investments & Asset Allocation.
+- 📚**Ferramentas**: Excel, Power BI, Spark, Airflow, Hadoop, Docker, AWS e Azure.
+- 📚**Linguagem de programação**: Python e SQL.
 
 <div style="display: inline"> 
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
