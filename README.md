@@ -1,11 +1,11 @@
 ### Olá, meu nome é Leonardo! 👋
-Engenheiro de Dados apaixonado por tecnologia. Atualmente adquirindo alto conhecimento, tenho experiência com banco de dados, excel, SQL, Python e BI. 
+Engenheiro de Dados apaixonado por tecnologia. Atualmente adquirindo alto conhecimento, tenho experiência com análise e banco de dados, excel, SQL, Python e BI. 
 
-▪️👨🏻‍🎓Formado como Engenheiro de Produção.
+▪️👨🏻‍🎓Graduado em Engenharia de Produção.
 
 ▪️👨🏻‍🎓MBA Pós Graduado em Investments & Asset Allocation.
 
-▪️📚**Ferramentas**: Excel, Power BI, Spark, Hive, Hadoop, Docker, AWS e Azure.
+▪️📚**Ferramentas**: Excel, Power BI, Spark, Airflow, Hadoop, Docker, AWS e Azure.
 
 ▪️📚**Linguagem de programação**: Python e SQL.
 
@@ -15,6 +15,7 @@ Engenheiro de Dados apaixonado por tecnologia. Atualmente adquirindo alto conhec
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg" /> 
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </div> 
 
 ##
