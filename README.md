@@ -1,6 +1,12 @@
 ### Olá, me chamo Leonardo Marino!! 👋
 Engenheiro de Dados apaixonado por tecnologia. Atualmente adquirindo alto conhecimento na área, tenho experiência com análise e banco de dados, excel, SQL, Python e BI. 
 
+<div>
+<a href="https://github.com/leomarinoo">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomarinoo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leomarinoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 ## 
 - 👨🏻‍🎓Graduado em Engenharia de Produção.
 - 👨🏻‍🎓MBA Pós Graduado em Investments & Asset Allocation.
@@ -33,3 +39,5 @@ Engenheiro de Dados apaixonado por tecnologia. Atualmente adquirindo alto conhec
 <a href="https://discord.gg/kBVsG5we"> 
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /> 
 </a> 
+
+![Snake animation](https://github.com/leomarinoo/leomarinoo/blob/output/github-contribution-grid-snake.svg) 
