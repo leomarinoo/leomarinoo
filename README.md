@@ -17,7 +17,7 @@
 ## 
 - 👨🏻‍🎓Graduado em Engenharia de Produção.
 - 👨🏻‍🎓MBA Pós Graduado em Investments & Asset Allocation.
-- 📚**Ferramentas**: Excel, Power BI, Spark, Airflow, Hadoop, Docker, AWS e Azure.
+- 📚**Ferramentas**: Excel, Power BI, Spark, Airflow, Pyspark, Hadoop, Docker, GCP, OCI, AWS, Azure e Databricks.
 - 📚**Linguagem de programação**: Python e SQL.
 
 ##
